@@ -10,7 +10,8 @@ public class TestInClassDevOpsApplication {
 		SpringApplication.run(TestInClassDevOpsApplication.class, args);
 		 int x = 123;
        
-    System.out.println("Sum of x+y = " + x);
+    
+    
 	}
 
 }
