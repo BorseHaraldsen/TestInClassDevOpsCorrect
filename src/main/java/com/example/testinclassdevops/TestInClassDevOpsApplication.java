@@ -8,10 +8,8 @@ public class TestInClassDevOpsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TestInClassDevOpsApplication.class, args);
-		 int x = 123;
-       
-    
-    
+	
+	haha
+	
 	}
-
 }
